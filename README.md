@@ -1,4 +1,3 @@
-```markdown
 # Intelligent Teacher Assistant for Alter Learning
 
 This repository contains the **Intelligent Teacher Assistant**, an AI-powered tool designed to assist educators by summarizing student performance, generating personalized feedback, and automating content creation. Built with cutting-edge AI models and educational insights, this tool aims to enhance teacher efficiency and improve classroom dynamics.
@@ -144,4 +143,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ---
 
 Let’s revolutionize education together! 🚀
-```
